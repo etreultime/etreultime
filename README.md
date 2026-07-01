@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,nodejs,express,python,java,docker,git,github,vscode,mysql,postgres,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" />
 </p>
