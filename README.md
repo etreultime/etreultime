@@ -1,5 +1,6 @@
-
-  # Being bored of being bored
+<p align="center">
+  <strong> Being bored of being bored </strong>
+</p>
 
 <p align="center">
   <img src="giorno.gif" width="400">
