@@ -1,1 +1,3 @@
-<img src="https://media1.tenor.com/m/JTudmgcE8ZIAAAAd/giorno-giovanna-jojo.gif" width="400">
+<p align="center">
+  <img src="https://tenor.com/bf4J2.gif" width="400">
+</p>
