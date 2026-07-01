@@ -1,5 +1,5 @@
 <p align="center">
-  <strong> Being bored of being bored </strong>
+  <b> Being bored of being bored </b>
 </p>
 
 <p align="center">
